@@ -18,9 +18,10 @@ Imports:
     purrr (>= 0.2.4),
     rstudioapi (>= 0.7),
     tibble (>= 1.4.2),
-    RNAetc
+    RNAetc,
+    BIGpicture
 Encoding: UTF-8
 LazyData: true
-RoxygenNote: 7.1.1
+RoxygenNote: 7.1.2
 License: MIT + file LICENSE
-Remotes: BIGslu/kimma, BIGslu/RNAetc
+Remotes: BIGslu/kimma, BIGslu/RNAetc, BIGslu/BIGpicture

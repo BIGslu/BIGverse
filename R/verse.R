@@ -1,4 +1,4 @@
-core <- c("kimma", "RNAetc", "BIGpicture")
+core <- c("kimma", "RNAetc", "BIGpicture", "SEARchways")
 
 core_loaded <- function() {
   search <- paste0("package:", core)

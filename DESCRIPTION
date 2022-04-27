@@ -1,6 +1,6 @@
 Package: BIGverse
 Title: Easily Install and Load Select Packages
-Version: 0.2.0
+Version: 0.0.3
 Authors@R: c(
     person("Kim", "Dill-McFarland", , email = "kadm@uw.edu", role = c("aut", "cre"))
   )
@@ -10,15 +10,16 @@ Description: The 'BIGverse' is selection of packages designed to be loaded
 Depends: 
     R (>= 3.1)
 Imports: 
+    BIGpicture,
     cli (>= 1.0.0),
     crayon (>= 1.3.4),
-    kimma,
     dplyr (>= 0.7.4),
+    kimma,
     purrr (>= 0.2.4),
-    rstudioapi (>= 0.7),
-    tibble (>= 1.4.2),
     RNAetc,
-    BIGpicture
+    rstudioapi (>= 0.7),
+    SEARchways,
+    tibble (>= 1.4.2)
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.1.2

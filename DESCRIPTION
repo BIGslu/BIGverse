@@ -1,6 +1,6 @@
 Package: BIGverse
 Title: Easily Install and Load Select Packages
-Version: 0.0.3
+Version: 0.1.0
 Authors@R: c(
     person("Kim", "Dill-McFarland", , email = "kadm@uw.edu", role = c("aut", "cre"))
   )

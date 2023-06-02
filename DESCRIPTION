@@ -10,15 +10,15 @@ Description: The 'BIGverse' is selection of packages designed to be loaded
 Depends: 
     R (>= 3.1)
 Imports: 
-    BIGpicture (>= 1.0.0),
+    BIGpicture (>= 1.1.0),
     cli (>= 1.0.0),
     crayon (>= 1.3.4),
     dplyr (>= 0.7.4),
-    kimma (>= 1.4.2),
+    kimma (>= 1.5.0),
     purrr (>= 0.2.4),
-    RNAetc (>= 1.0.0),
+    RNAetc (>= 1.1.0),
     rstudioapi (>= 0.7),
-    SEARchways (>= 1.0.0),
+    SEARchways (>= 1.1.0),
     tibble (>= 1.4.2)
 Encoding: UTF-8
 LazyData: true
